@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/ISNIT0/Node-Rust-Hello-World.svg?branch=master)
+
 # NodeJS Rust FFI Hello World
 
 ## Requirements
