@@ -1,0 +1,7 @@
+[package]
+
+name = "nodejs-rust"
+version = "1.0.0"
+
+[lib]
+crate-type = ["dylib"]
